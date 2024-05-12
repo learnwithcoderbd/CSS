@@ -1,0 +1,10 @@
+.container{
+    width: 250px;
+    height: auto;
+    background: #dadada;
+
+    padding: 20px;
+    border: 5px solid red;
+    outline: 10px dashed red;
+    margin: 20px;
+}

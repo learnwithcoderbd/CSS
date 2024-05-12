@@ -1,0 +1,35 @@
+.border-box{
+    background-color: #e7e7e7;
+    height: 100px;
+    width: 300px;
+    padding: 10px;
+    
+    border-top: 10px solid blue;
+    border-right: 10px solid red;
+    border-bottom: 10px solid orange;
+    border-left: 10px solid green;
+    /* border-radius: 10px; */
+
+    /* border-top-right-radius: 100px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 30px; */
+
+    border-radius: 20px 0 100px 0;
+}
+
+
+.circle{
+    height: 200px;
+    width: 200px;
+    background: red;
+    margin-top: 50px;
+    border-radius: 50%;
+    outline: 10px solid green;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    border-radius: 50%;
+}

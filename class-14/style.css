@@ -1,0 +1,13 @@
+.container{
+    width: 250px;
+    height: 250px;
+    background: #dadada;
+    border: 1px solid #000000;
+    margin: auto;
+    padding: 5px;
+
+    /* overflow: auto; */
+    /* overflow-x: auto; */
+    overflow: auto;
+
+}

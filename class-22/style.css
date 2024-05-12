@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+}
+.hero{
+    text-align: center;
+    font-size: 30px;
+    height: 300px;
+    /* background-color: dodgerblue; */
+    background-image: linear-gradient(81deg, lightblue, #ff69b496, lightgreen);
+}

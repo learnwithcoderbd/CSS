@@ -1,0 +1,11 @@
+.border-box{
+    background-color: #e7e7e7;
+    height: 100px;
+    width: 300px;
+    padding: 10px;
+    
+    border-top: 10px solid blue;
+    border-right: 10px solid red;
+    border-bottom: 10px solid orange;
+    border-left: 10px solid green;
+}

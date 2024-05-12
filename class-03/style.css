@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+}
+
+.title {
+    color: red;
+}
+
+#info {
+    background: orange;
+}
+
+#info2 {
+    width: 250px;
+    background: #000;
+    color: #fff;
+}

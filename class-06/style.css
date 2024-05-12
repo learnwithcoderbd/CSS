@@ -1,0 +1,10 @@
+.abouttext{
+    background-color: #dadada;
+    /* height: 200px; */
+    min-height: 200px;
+    max-height: 400px;
+
+    /* width: 800px; */
+    max-width: 800px;
+    min-width: 500px;
+}
